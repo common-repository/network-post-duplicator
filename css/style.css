@@ -1,0 +1,39 @@
+.duplicate-post-options-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.duplicate-post-options-content {
+    margin-bottom: 20px;
+}
+
+.duplicate-post-options-content h2 {
+    margin-bottom: 10px;
+}
+
+.duplicate-post-options-field label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.post-types-checkboxes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.post-types-checkboxes label {
+    display: block;
+}
+
+.post-types-checkboxes input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.form-table {
+    display: none;
+}

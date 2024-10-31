@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Network Post Duplicator\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+
+msgid "Network Post Duplicator"
+msgstr "Network Post Duplicator"
+
+msgid "Duplica los posts a distintos sitios de la red"
+msgstr "Duplicate posts to different sites on the network"
+
+msgid "Selecciona los sitios a los que deseas duplicar este post:"
+msgstr "Select the sites to which you want to duplicate this post:"
+
+msgid "Guardar Cambios"
+msgstr "Save changes"
+
+msgid "Ajustes Generales"
+msgstr "General Settings"
+
+msgid ""
+"Esta página permite configurar opciones para el plugin \"Network Post "
+"Duplicator\" en WordPress, como seleccionar los tipos de publicaciones a "
+"duplicar."
+msgstr ""
+"This page allows you to configure options for the \"Network Post "
+"Duplicator\" plugin in WordPress, such as selecting the types of posts "
+"to duplicate."
+
+msgid "Tipo de publicaciones:"
+msgstr "Type of publications:"
+
+msgid "Activar sincronización"
+msgstr "Activate synchronization"
+
+msgid "Opciones de sincronización de posts"
+msgstr "Post sync options"
+
+msgid "Ajustes"
+msgstr "Settings"
